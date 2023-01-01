@@ -1,0 +1,23 @@
+{
+  "name": "aws-deployable-express-app",
+  "version": "1.0.0",
+  "description": "Basic Understanding How Express App we can Deploy on Aws with the Help of Docker File.",
+  "main": "ExpressServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunjalrushabh/AWS-deployable-express-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunjalrushabh/AWS-deployable-express-app/issues"
+  },
+  "homepage": "https://github.com/gunjalrushabh/AWS-deployable-express-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.3.0"
+  }
+}

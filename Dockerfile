@@ -3,5 +3,5 @@ WORKDIR /app
 COPY package.json /app
 RUN npm install
 COPY .  /app
-CMD node Expresserver.js
+CMD node ExpressServer.js
 EXPOSE 8000
